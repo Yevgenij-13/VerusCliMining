@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RYc6mZAdMFBjvUWtwra6Uj2Nrc8qUPvigZ.experement13-30",
+	"user": "RYc6mZAdMFBjvUWtwra6Uj2Nrc8qUPvigZ.POKO M3",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 6,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.106",
