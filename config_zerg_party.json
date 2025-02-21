@@ -17,9 +17,9 @@
 	}
 	],
 	"user": "RYc6mZAdMFBjvUWtwra6Uj2Nrc8qUPvigZ",
-	"pass": "c=VRSC,mc=VRSC,m=party.qwerty11,ID=experenent13-30",
+	"pass": "c=VRSC,mc=VRSC,m=party.qwerty11,ID=POKO M3",
 	"algo": "verus",
-	"threads": 6,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.106",
